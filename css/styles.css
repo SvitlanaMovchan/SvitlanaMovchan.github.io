@@ -1,0 +1,20 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.content-row {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.content-row-item {
+	width: 23%;					
+}
